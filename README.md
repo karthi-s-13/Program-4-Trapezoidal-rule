@@ -17,9 +17,12 @@ Step 2: Define the values of a,b,h.
 Step 3: Compute n = $$(b - a) / h$$
 
 Step 4: Assign Sum = 0
-      - for i = 1 to n
-      - $$Sum = sum + f(a + i x h)$$
-      - $$trep = h/2 * ( f(n) + f(b) + 2 * sum)$$
+
+- for i = 1 to n
+      
+- $$Sum = sum + f(a + i x h)$$
+      
+- $$trep = h/2 * ( f(n) + f(b) + 2 * sum)$$
 
 Step 5: Print the integral value
 
