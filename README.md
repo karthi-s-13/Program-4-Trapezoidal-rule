@@ -1,4 +1,4 @@
-# Program-4: Trapezoidal rule
+# Program 4: Trapezoidal rule
 
 <br>
 
@@ -40,7 +40,7 @@ Step 4: Assign Sum = 0
 
 - for i = 1 to n
       
-- $$Sum = sum + f(a + i x h)$$
+- $$Sum = sum + f(a + i$$ x $$h)$$
       
 - $$trep = h/2 * ( f(n) + f(b) + 2 * sum)$$
 
